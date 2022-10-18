@@ -4,6 +4,7 @@
 3. [DOTween](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676)
 4. [Lean Touch](https://carloswilkes.com/Documentation/LeanTouch)
 5. [Lean GUI](https://carloswilkes.com/Documentation/LeanGUI)
+6. [Debug Helper](https://github.com/blablaalb/DebugHelper)
 
 
 # Included libraries
