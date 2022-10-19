@@ -9,3 +9,4 @@
 
 # Included libraries
 1. [Excessive](https://github.com/SirHall/Excessives)
+2. [UniTask](https://cysharp.github.io/UniTask/api/Cysharp.Threading.Tasks.html)
