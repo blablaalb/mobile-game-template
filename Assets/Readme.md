@@ -5,6 +5,7 @@
 4. [Lean Touch](https://carloswilkes.com/Documentation/LeanTouch)
 5. [Lean GUI](https://carloswilkes.com/Documentation/LeanGUI)
 6. [Debug Helper](https://github.com/blablaalb/DebugHelper)
+7. [Naughty Attributes](https://github.com/dbrizov/NaughtyAttributes)
 
 
 # Included libraries
